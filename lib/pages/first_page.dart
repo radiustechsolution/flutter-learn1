@@ -6,7 +6,7 @@ import 'package:lean1/pages/profile_page.dart';
 import 'package:lean1/pages/settings_page.dart';
 
 class FirstPage extends StatefulWidget {
-  FirstPage({super.key});
+  const FirstPage({super.key});
 
   @override
   State<FirstPage> createState() => _FirstPageState();
